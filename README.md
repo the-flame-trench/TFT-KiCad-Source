@@ -3,7 +3,8 @@ TFT KiCad library source repo for all future electronics design projects, includ
 
 
 # Usage
-Clone TFT-KiCad-Source and import all symbol and footprint libraries, found under /TFT_symbols and /TFT_footprints respectively, to your KiCad installation
+Clone TFT-KiCad-Source and import all symbol and footprint libraries, found under /TFT_symbols and /TFT_footprints respectively, to your KiCad installation.
+
 Under `Preferences -> Configure Path` set a new environment variable named `TFT_KICAD_LIB` and set the path to the location where TFT-KiCad-Source is cloned.
 
 
