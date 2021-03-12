@@ -12,4 +12,4 @@ Unless you are contributing directly to a TFT project, and specifically designin
 
 
 # Licence
-Licenced under the [Creative Commons CC-BY-SA 4.0 License](LICENCE) or as referenced.
+Licenced under the [Creative Commons CC-BY-SA 4.0 Licence](LICENCE) or as referenced.
