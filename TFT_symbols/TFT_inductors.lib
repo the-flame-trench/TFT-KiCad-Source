@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 470nH-4A-20%
+#
+DEF 470nH-4A-20% L 0 40 N N 1 F N
+F0 "L" -50 0 50 V V C CNN
+F1 "470nH-4A-20%" 75 0 50 V I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "470nH" 100 -150 50 V V C CNN "NumVal"
+F5 "DFE252012PD-R47M=P2" 400 -500 98 H I C CNN "PartNumber"
+F6 "Fixed Inductors 1008 0.47uH 20% 5.2A RDC=0.027ohms" 400 -700 98 H I C CNN "Description"
+F7 "20%" -100 -1300 98 H I C CNN "Tolerance"
+F8 "4A" -150 -1450 98 H I C CNN "Imax_DC"
+F9 "5.2mA" -100 -1000 98 H I C CNN "Isat"
+F10 "Murata" -150 -1150 98 H I C CNN "Manufacturer"
+F11 "Mouser: 81-DFE252012PDR47MP2" 350 -850 98 H I C CNN "OrderNumber"
+$FPLIST
+ Choke_*
+ *Coil*
+ Inductor_*
+ L_*
+$ENDFPLIST
+DRAW
+A 0 -75 25 -899 899 0 1 0 N 0 -100 0 -50
+A 0 -25 25 -899 899 0 1 0 N 0 -50 0 0
+A 0 25 25 -899 899 0 1 0 N 0 0 0 50
+A 0 75 25 -899 899 0 1 0 N 0 50 0 100
+X 1 1 0 150 50 D 50 50 1 1 P
+X 2 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

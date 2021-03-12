@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMSZ5223BT1G
+D 2.7V 500mW Zener Diode, SOD-123
+K zener diode
+F http://www.farnell.com/datasheets/668775.pdf
+$ENDCMP
+#
+#End Doc Library

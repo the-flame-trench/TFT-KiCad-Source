@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4353
+D OR Controller Current Sharing Controller N-Channel 2:2 16-DFN (4x3)
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4353f.pdf
+$ENDCMP
+#
+#End Doc Library

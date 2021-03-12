@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 470nH-4A-20%
+D Fixed Inductors 1008 0.47uH 20% 5.2A RDC=0.027ohms
+K inductor choke coil reactor magnetic
+F https://www.mouser.co.uk/datasheet/2/281/reference_specification_DFE252012PD-1101036.pdf
+$ENDCMP
+#
+#End Doc Library

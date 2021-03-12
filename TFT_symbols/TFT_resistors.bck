@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100K-50V-0402-1%
+D SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 10K-50V-0402-1%
+D SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2714353.pdf
+$ENDCMP
+#
+$CMP 120R-50V-0402-1%
+D SMD Chip Resistor, 120 ohm, ± 1%, 200 mW, 0402 [1005 Metric], Thick Film, Pulse Proof, High Power
+K R res resistor
+F http://www.farnell.com/datasheets/2339608.pdf
+$ENDCMP
+#
+$CMP 130K-50V-0402-1%
+D SMD Chip Resistor, 130 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 1M-50V-0402-1%
+D SMD Chip Resistor, 1 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 1M43-50V-0402-1%
+D SMD Chip Resistor, 1.43 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 1M65-50V-0402-1%
+D SMD Chip Resistor, 1.65 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 39R0-50V-0402-1%
+D SMD Chip Resistor, 39 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 4K7-50V-0402-1%
+D SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+$CMP 68K-50V-0402-1%
+D SMD Chip Resistor, 68 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
+#End Doc Library

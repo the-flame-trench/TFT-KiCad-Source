@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM33256B
+D Real Time Clock 256Kb F-RAM Processor Companion
+K RTC FRAM 250Kb supervisor
+F https://www.cypress.com/file/126881/download
+$ENDCMP
+#
+$CMP UCC2946
+D Supervisory Circuits Mcrprcsr Supervisor w/Watchdog Timer
+K Supervisor
+F https://www.ti.com/lit/ds/symlink/ucc2946.pdf
+$ENDCMP
+#
+#End Doc Library

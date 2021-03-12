@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 32.768kHz-12.5pF-20ppm
+D Crystals 32.768kHz 12.5pF 20ppm -40C +125C
+K quartz ceramic resonator oscillator
+F https://www.mouser.co.uk/datasheet/2/160/K13A-1274528.pdf
+$ENDCMP
+#
+$CMP ASTMTXK-32.768KHZ
+D TCXO, 32.768 kHz, 5 ppm, SMD, 1.54mm x 0.84mm, LVCMOS, ASTMTXK Series
+K TCXO 32.768kHz
+F http://www.farnell.com/datasheets/2581442.pdf
+$ENDCMP
+#
+$CMP LFTCXO075797
+D TCXO, 20 MHz, 0.28 ppm, SMD, 3.2mm x 2.5mm, Clipped Sinewave, 3.3 V, IQXT-220-1 Series
+K Crystal Clock Oscillator
+F http://www.farnell.com/datasheets/2371463.pdf
+$ENDCMP
+#
+#End Doc Library

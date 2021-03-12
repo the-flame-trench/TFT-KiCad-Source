@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TPS62850x-Q1
+#
+DEF TPS62850x-Q1 U 0 20 Y Y 1 F N
+F0 "U" -750 750 98 H V C CNN
+F1 "TPS62850x-Q1" -550 900 98 H V C CNN
+F2 "" 0 0 98 H I C CNN
+F3 "" 0 0 98 H I C CNN
+F4 "TPS628502QDRLRQ1" -300 -700 98 H I C CNN "PartNumber"
+F5 "Switching Voltage Regulators 2.7-V to 6-V, 2-A automotive step-down converter in SOT583 package " -1300 -400 98 H I C CNN "Description"
+F6 "0.6 - 5.5V" -350 -850 98 H I C CNN "Vout"
+F7 "TI" -1200 -700 98 H I C CNN "Manufacturer"
+F8 "Mouser: 595-TPS628502QDRLRQ1" -550 -550 98 H I C CNN "OrderNumber"
+DRAW
+S -800 650 -100 -200 0 1 0 f
+X Vin 1 -900 550 100 R 50 50 1 1 W
+X EN 2 -900 300 100 R 50 50 1 1 I
+X MODE/SYNC 3 -900 150 100 R 50 50 1 1 I
+X COMP/FSET 4 -900 -100 100 R 50 50 1 1 I
+X FB 5 0 300 100 L 50 50 1 1 I
+X PG 6 0 50 100 L 50 50 1 1 O
+X SW 7 0 550 100 L 50 50 1 1 w
+X GND 8 0 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65HVD230
+D CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8
+K can transeiver ti low-power
+F http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+$ENDCMP
+#
+$CMP SN65HVD230M-EP
+D CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8, enhanced product
+K can transeiver ti low-power enhanced
+F https://www.ti.com/lit/ds/symlink/sn65hvd230m-ep.pdf
+$ENDCMP
+#
+$CMP SN65HVD231
+D CAN Bus Transceivers, 3.3V, 1Mbps,Ultra Low-Power capabilities, SOIC-8
+K can transeiver ti ulp low-power
+F http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,244 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 100K-50V-0402-1%
+#
+DEF 100K-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "100K-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "100K" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW0402100KFKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     1469671 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10K-50V-0402-1%
+#
+DEF 10K-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "10K-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "10K" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW040210K0FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:      1469669 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120R-50V-0402-1%
+#
+DEF 120R-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "120R-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "120R" 100 -100 50 V V C CNN "NumVal"
+F5 "CRCW0402120RFKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 120 ohm, ± 1%, 200 mW, 0402 [1005 Metric], Thick Film, Pulse Proof, High Power" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:      1738838 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 130K-50V-0402-1%
+#
+DEF 130K-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "130K-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "130K" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW0402130KFKED " -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 130 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:   1469679 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M-50V-0402-1%
+#
+DEF 1M-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "1M-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "1M" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW04021M00FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 1 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     1469667 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M43-50V-0402-1%
+#
+DEF 1M43-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "1M43-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "1M43" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW04021M43FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 1.43 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     2141057 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M65-50V-0402-1%
+#
+DEF 1M65-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "1M65-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "1M65" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW04021M65FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 1.65 Mohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     2141065 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39R0-50V-0402-1%
+#
+DEF 39R0-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "39R0-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "39R" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW040239R0FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 39 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     2140631 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4K7-50V-0402-1%
+#
+DEF 4K7-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "4K7-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "4K7" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW04024K70FKED " -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     1469712 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68K-50V-0402-1%
+#
+DEF 68K-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "68K-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "68K" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW040268K0FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 68 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:     2140918 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
