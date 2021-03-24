@@ -80,22 +80,26 @@ ENDDEF
 #
 DEF 10u-10V-1206-10%-TANT C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "10u-10V-1206-10%-TANT" 25 -100 50 H I L CNN
-F2 "Capacitor_SMD:C_1206_3216Metric" 38 -150 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F1 "10u-10V-1206-10%-TANT" -200 950 50 H I L CNN
+F2 "Capacitor_SMD:C_1206_3216Metric" -100 850 50 H I C CNN
+F3 "" -100 1050 50 H I C CNN
 F4 "10u" 100 -100 50 H V C CNN "NumVal"
-F5 "TAJA106K010TNJ" 0 0 50 H I C CNN "PartNumber"
-F6 "Surface Mount Tantalum Capacitor, 10 µF, 10 V, 1206 [3216 Metric], TAJ Series, ± 10%, -55 °C" 0 0 50 H I C CNN "Description"
-F7 "10%" 0 0 50 H I C CNN "Tolerance"
+F5 "TAJA106K010TNJ" -300 550 50 H I C CNN "PartNumber"
+F6 "Surface Mount Tantalum Capacitor, 10 µF, 10 V, 1206 [3216 Metric], TAJ Series, ± 10%, -55 °C" -250 650 50 H I C CNN "Description"
+F7 "10%" -50 1050 50 H I C CNN "Tolerance"
 F8 "10V" 100 -200 50 H V C CNN "Vmax"
-F9 "AVX" 0 0 50 H I C CNN "Manufacturer"
-F10 "Farnell:           3340899 " 0 0 50 H I C CNN "OrderNumber"
+F9 "AVX" -50 1150 50 H I C CNN "Manufacturer"
+F10 "Farnell:           3340899 " -100 750 50 H I C CNN "OrderNumber"
 $FPLIST
  C_*
 $ENDFPLIST
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
+A 0 -183 174 550 1250 1 1 10 N 100 -40 -100 -40
+S -75 81 -40 76 1 1 0 F
+S -60 97 -55 61 1 1 0 F
+P 2 1 1 10 0 -10 0 -150 N
+P 2 1 1 10 0 150 0 30 N
+P 2 1 1 10 100 30 -100 30 N
 X ~ 1 0 150 110 D 50 50 1 1 P
 X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
