@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP FDY300NZ
 D Power MOSFET, N Channel, 20 V, 600 mA, 0.24 ohm, SC-89, Surface Mount
 K N-Channel MOSFET Logic-Level
-F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+F https://www.mouser.co.uk/datasheet/2/308/FDY300NZ-D-1808472.pdf
 $ENDCMP
 #
 $CMP LM73100
