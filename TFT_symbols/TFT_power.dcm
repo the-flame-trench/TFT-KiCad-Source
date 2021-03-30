@@ -1,17 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP OBC_1V2
-D Power symbol creates a global label with name "OBC_1V2"
+$CMP OBC_1V25
+D Power symbol creates a global label with name "OBC_1V25"
 K power-flag
 $ENDCMP
 #
-$CMP OBC_1V2_P
-D Power symbol creates a global label with name "OBC_1V2_P"
+$CMP OBC_1V25_P
+D Power symbol creates a global label with name "OBC_1V25_P"
 K power-flag
 $ENDCMP
 #
-$CMP OBC_1V2_R
-D Power symbol creates a global label with name "OBC_1V2_R"
+$CMP OBC_1V25_R
+D Power symbol creates a global label with name "OBC_1V25_R"
 K power-flag
 $ENDCMP
 #
