@@ -10,4 +10,10 @@ $CMP LM73100
 F https://www.ti.com/lit/ds/symlink/lm7310.pdf?ts=1614791303596&ref_url=https%253A%252F%252Fwww.google.com%252F
 $ENDCMP
 #
+$CMP MGSF1N02L
+D MOSFET NFET SOT23 20V 750mA 90mOhm 
+K N-Channel MOSFET Logic-Level
+F https://www.onsemi.com/pdf/datasheet/mgsf1n02lt1-d.pdf
+$ENDCMP
+#
 #End Doc Library
