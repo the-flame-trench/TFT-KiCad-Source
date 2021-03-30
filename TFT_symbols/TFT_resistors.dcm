@@ -24,6 +24,12 @@ K R res resistor
 F http://www.farnell.com/datasheets/2310790.pdf
 $ENDCMP
 #
+$CMP 15K-50V-0402-1%
+D SMD Chip Resistor, 15 Kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
+K R res resistor
+F https://www.mouser.co.uk/datasheet/2/427/dcrcwe3-1762152.pdf
+$ENDCMP
+#
 $CMP 16K2-50V-0402-1%
 D SMD Chip Resistor, 16.2 Kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
 K R res resistor

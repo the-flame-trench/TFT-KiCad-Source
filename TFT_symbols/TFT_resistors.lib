@@ -97,6 +97,30 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 15K-50V-0402-1%
+#
+DEF 15K-50V-0402-1% R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "15K-50V-0402-1%" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "15K" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW040215K0FKED" -200 -50 50 V I C CNN "PartNumber"
+F6 "SMD Chip Resistor, 15 Kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" 0 0 50 H I C CNN "Description"
+F7 "1%" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Mouser: 71-CRCW0402-15K-E3" 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 16K2-50V-0402-1%
 #
 DEF 16K2-50V-0402-1% R 0 0 N Y 1 F N
