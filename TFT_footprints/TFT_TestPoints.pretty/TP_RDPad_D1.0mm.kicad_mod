@@ -1,4 +1,4 @@
-(module TestPoint_Pad_D1.0mm (layer F.Cu) (tedit 5A0F774F)
+(module TP_RDPad_D1.0mm (layer F.Cu) (tedit 6064C15E)
   (descr "SMD pad as test Point, diameter 1.0mm")
   (tags "test point SMD pad")
   (attr virtual)
