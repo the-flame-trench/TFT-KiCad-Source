@@ -6,6 +6,12 @@ K RTC FRAM 250Kb supervisor
 F https://www.cypress.com/file/126881/download
 $ENDCMP
 #
+$CMP TPS3813K33-EP
+D Processor supervisory circuits with window-watchdog
+K Supervisor
+F https://www.ti.com/lit/ds/symlink/tps3813k33-ep.pdf?ts=1621793707844&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS3813K33-EP
+$ENDCMP
+#
 $CMP UCC2946
 D Supervisory Circuits Mcrprcsr Supervisor w/Watchdog Timer
 K Supervisor
