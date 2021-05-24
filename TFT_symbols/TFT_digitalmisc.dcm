@@ -6,6 +6,12 @@ K RTC FRAM 250Kb supervisor
 F https://www.cypress.com/file/126881/download
 $ENDCMP
 #
+$CMP RV-3032-C7
+D Real time clock module with I2C bus
+K RTC
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3032-C7.pdf
+$ENDCMP
+#
 $CMP TPS3813K33-EP
 D Processor supervisory circuits with window-watchdog
 K Supervisor
