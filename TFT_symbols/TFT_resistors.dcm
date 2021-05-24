@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0R-50V-0402
+D Zero Ohm Resistor, Jumper, 0402 [1005 Metric], Thick Film, 63 mW, 3 A, Surface Mount Device
+K R res resistor
+F http://www.farnell.com/datasheets/2310790.pdf
+$ENDCMP
+#
 $CMP 100K-50V-0402-1%
 D SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
 K R res resistor

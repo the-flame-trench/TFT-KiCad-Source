@@ -1,6 +1,30 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 0R-50V-0402
+#
+DEF 0R-50V-0402 R 0 0 N Y 1 F N
+F0 "R" -100 0 50 V V C CNN
+F1 "0R-50V-0402" 100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0402_1005Metric" -70 0 50 V I C CNN
+F3 "" 100 -200 50 H I C CNN
+F4 "0R" 100 -50 50 V V C CNN "NumVal"
+F5 "CRCW04020000ZSTD " -200 -50 50 V I C CNN "PartNumber"
+F6 "Zero Ohm Resistor, Jumper, 0402 [1005 Metric], Thick Film, 63 mW, 3 A, Surface Mount Device" 0 0 50 H I C CNN "Description"
+F7 "-" 100 150 50 V V C CNN "Tolerance"
+F8 "50V" 100 300 50 V I C CNN "Vmax"
+F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
+F10 "Farnell:          1652737 " 0 0 50 H I C CNN "OrderNumber"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 100K-50V-0402-1%
 #
 DEF 100K-50V-0402-1% R 0 0 N Y 1 F N
