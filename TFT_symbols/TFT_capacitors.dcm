@@ -6,6 +6,12 @@ K cap capacitor
 F https://api.kemet.com/component-edge/download/specsheet/C0402C104J8RACAUTO.pdf
 $ENDCMP
 #
+$CMP 100uAH-1V8-4.4x3mm_LIon_batt
+D Rechargeable Multilayer Ceramic Battery
+K battery
+F https://www.tdk-electronics.tdk.com/inf/75/ds/CeraCharge_BCT1812M101AG.pdf
+$ENDCMP
+#
 $CMP 10p-50V-0402-0.5p-CER
 D SMD Multilayer Ceramic Capacitor, 10 pF, 50 V, 0402 [1005 Metric], ± 0.5pF, C0G / NP0
 K cap capacitor
