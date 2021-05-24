@@ -11,7 +11,7 @@ F3 "" 100 -200 50 H I C CNN
 F4 "0R" 100 -50 50 V V C CNN "NumVal"
 F5 "CRCW04020000ZSTD " -200 -50 50 V I C CNN "PartNumber"
 F6 "Zero Ohm Resistor, Jumper, 0402 [1005 Metric], Thick Film, 63 mW, 3 A, Surface Mount Device" 0 0 50 H I C CNN "Description"
-F7 "-" 100 150 50 V V C CNN "Tolerance"
+F7 "-" 100 150 50 V I C CNN "Tolerance"
 F8 "50V" 100 300 50 V I C CNN "Vmax"
 F9 "Vishay" 100 -250 50 V I C CNN "Manufacturer"
 F10 "Farnell:          1652737 " 0 0 50 H I C CNN "OrderNumber"
