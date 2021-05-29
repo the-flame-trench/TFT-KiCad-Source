@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ERF6-020-X
+F https://www.mouser.co.uk/datasheet/2/527/erf6-2328986.pdf
+$ENDCMP
+#
+$CMP ERF8-020-X
+F https://www.mouser.co.uk/datasheet/2/527/erf8-1369924.pdf
+$ENDCMP
+#
+$CMP ERM8-020-X
+F https://www.mouser.co.uk/datasheet/2/527/erm8-1369990.pdf
+$ENDCMP
+#
 #End Doc Library
