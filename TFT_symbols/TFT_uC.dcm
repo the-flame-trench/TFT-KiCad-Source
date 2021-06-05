@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAME51N20A-AU
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D5x_E5x_Family_Data_Sheet_DS60001507G.pdf
+$ENDCMP
+#
 $CMP TMS5701227CZWTQQ1
 F https://www.ti.com/lit/ds/symlink/tms570ls1227.pdf
 $ENDCMP
