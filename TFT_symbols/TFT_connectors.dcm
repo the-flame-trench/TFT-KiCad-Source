@@ -12,4 +12,8 @@ $CMP ERM8-020-X
 F https://www.mouser.co.uk/datasheet/2/527/erm8-1369990.pdf
 $ENDCMP
 #
+$CMP MTSW-X20
+F https://suddendocs.samtec.com/catalog_english/mtsw.pdf
+$ENDCMP
+#
 #End Doc Library
